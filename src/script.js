@@ -1,3 +1,4 @@
+
 document.addEventListener("DOMContentLoaded", () => {
     const number = document.querySelector(".number");
     const generateBtn = document.querySelector(".generate");
